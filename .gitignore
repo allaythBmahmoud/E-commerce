@@ -1,0 +1,15 @@
+venv
+__pycache__
+ecommerce/.env
+static
+TODO
+.idea
+.vscode
+*.pyc
+*.sqlite3
+celery-beat-schedule.db
+*.Ds_Store
+*.log
+logging
+ecommerce/celerybeat-schedule
+
