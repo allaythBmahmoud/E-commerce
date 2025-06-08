@@ -68,7 +68,7 @@ for managing products, orders, and user authentication.
 1. ### Clone the repository:
 
 ```git
-git clone https://github.com//drf-ecommerce.git
+git clone https://github.com/allaythBmahmoud/E-commerce.git
 ```
 
 2. ### Go to the project directory:
